@@ -1,0 +1,5 @@
+module fishhook {
+  header "fishhook.h"
+  link "fishhook"
+  export *
+}
